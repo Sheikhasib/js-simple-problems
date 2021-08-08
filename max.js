@@ -10,7 +10,7 @@ const army = 600;
 
 // Task 1:create a function that takes three numbers as input parameter and returns you the largest number of the three
 
-// Task 2:writ a function find the smallest of three numbers
+// Task 2:write a function find the smallest of three numbers
 
 function findLargest(first,second){
     if(first>second){
